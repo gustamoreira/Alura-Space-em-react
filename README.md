@@ -12,4 +12,4 @@
 * JavaScript
 * React
 * HTML
-* CSS
+* SCSS
